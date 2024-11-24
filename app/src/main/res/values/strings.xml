@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ArtSpaceApp</string>
+    <string name="australia_name">Австралия</string>
+    <string name="australia_fact">Это крупнейшая в мире система коралловых рифов, и она видна из космоса.</string>
+    <string name="argetina_name">Аргентина</string>
+    <string name="argetina_fact">Здесь находится Аконкагуа, самая высокая гора в Южной Америке (6961 м).</string>
+    <string name="greece_name">Греция</string>
+    <string name="greece_fact">В Греции более 6000 островов, из которых населены только около 227.</string>
+    <string name="island_name">Исландия</string>
+    <string name="island_fact">Исландия — одно из лучших мест в мире для наблюдения за северным сиянием.</string>
+    <string name="spain_name">Испания</string>
+    <string name="spain_fact">В Испании 17 автономных сообществ, каждое из которых имеет свои уникальные традиции и языки.</string>
+    <string name="btn_next">Далее</string>
+    <string name="btn_previous">Назад</string>
 </resources>
